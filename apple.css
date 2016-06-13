@@ -1,0 +1,23 @@
+.image_logo {
+    display: block;
+    margin: 0px auto;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    border: none;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+    
+}
+
+ul {
+    text-align: center;
+}
+
+
